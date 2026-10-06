@@ -119,7 +119,7 @@ export function Footer() {
         <div className="mx-auto mt-6 flex max-w-6xl flex-col gap-5">
           <Separator />
           <div className="flex flex-col justify-between gap-3 text-muted-foreground sm:flex-row sm:items-center">
-            <p>© 2026 PT Safanah Alvan Maksima. All rights reserved.</p>
+            <p>© 2026 PT Ghina Multi Prima. All rights reserved.</p>
             <p className="flex items-center gap-2">
               <span className="relative flex size-2">
                 <span className="absolute inline-flex size-full animate-ping rounded-full bg-primary opacity-60 motion-reduce:animate-none" />

@@ -19,7 +19,7 @@ import { company, mapsHref, principles, story } from "@/content/about";
 export const metadata: Metadata = {
   title: "About",
   description:
-    "SAMTEK is an on-premise, edge-first AI video analytics platform built by PT Safanah Alvan Maksima in Bekasi, Indonesia.",
+    "SAMTEK is an on-premise, edge-first AI video analytics platform built by PT Ghina Multi Prima in Bekasi, Indonesia.",
   robots: { index: false, follow: false },
 };
 

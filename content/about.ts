@@ -15,7 +15,7 @@ export type TeamMember = {
 };
 
 export const company = {
-  legalName: "PT Safanah Alvan Maksima",
+  legalName: "PT Ghina Multi Prima",
   product: "SAMTEK",
   tagline: "On-premise, edge-first AI Video Management System.",
   address:
