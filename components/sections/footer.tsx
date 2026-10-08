@@ -14,8 +14,6 @@ const featuredCapabilities = capabilities.filter((c) => c.tier === "featured");
 const companyLinks = [
   { href: "/about", label: "About" },
   { href: "/custom-models", label: "Custom AI" },
-  { href: "/security", label: "Security" },
-  { href: "/download", label: "Download" },
   { href: "/contact", label: "Contact" },
 ];
 

@@ -10,7 +10,6 @@ const navLinks = [
   { href: "/custom-models", label: "./custom-ai" },
   { href: "/sectors", label: "./sectors" },
   { href: "/about", label: "./about" },
-  { href: "/download", label: "./download" },
 ];
 
 export function Navbar() {
